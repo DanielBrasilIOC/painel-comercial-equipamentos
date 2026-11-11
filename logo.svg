@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342 394" role="img" aria-label="Logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05d9df"/><stop offset=".45" stop-color="#1839ef"/><stop offset=".78" stop-color="#a52bd8"/><stop offset="1" stop-color="#08d4dc"/></linearGradient></defs>
+<g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="171" cy="190" r="164" stroke-width="5"/>
+<path d="M36 111 C75 34 250 35 302 112 C337 168 282 206 220 216 C156 228 71 210 39 249" stroke-width="2.2" opacity=".85"/>
+<path d="M26 262 C70 218 245 246 305 191 C337 161 318 104 278 77" stroke-width="1.8" opacity=".7"/>
+<path d="M84 48 C35 104 38 230 105 286 C157 329 255 307 296 255" stroke-width="2" opacity=".65"/>
+<path d="M162 6 C147 6 137 17 139 34 L143 49 C146 60 137 68 133 81 C126 101 130 122 139 139 C145 152 140 165 133 180 C125 199 113 221 103 245 C96 261 88 279 88 296 C86 310 77 322 73 337 C69 347 76 353 90 357 L119 365 C130 367 136 361 127 353 L109 338 C105 334 108 326 113 315 L128 282 C143 252 160 228 174 204 C186 182 191 160 194 142" stroke-width="5.2"/>
+<path d="M144 55 C158 57 171 72 177 93 C183 114 190 133 207 150 L238 181" stroke-width="5.2"/>
+<path d="M143 80 C131 101 128 126 136 148 C141 163 142 174 134 188" stroke-width="4.4"/>
+<path d="M197 140 C207 151 210 165 205 182 C199 207 188 228 174 250 C161 270 151 288 149 307 C147 321 155 333 168 343 L190 357 C198 363 195 370 185 370 L157 366 C144 364 133 355 128 345" stroke-width="5.2"/>
+<path d="M202 193 C212 220 221 247 224 272 C227 297 234 319 250 331 C261 339 274 341 287 342 C299 343 302 351 291 357 L264 372 C253 378 244 374 243 362 L240 341" stroke-width="5.2"/>
+<path d="M160 5 C179 -2 198 5 201 22 L205 43 C209 54 205 64 194 65 C185 67 183 79 187 91" stroke-width="5.2"/>
+</g></svg>
